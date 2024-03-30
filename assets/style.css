@@ -1,0 +1,169 @@
+
+body{
+    font-family: sans-serif;
+    margin: 300px;
+}
+main{
+    margin: 
+    margin-top: 
+}
+header{
+    padding: ;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+header nav.nav{
+    
+    padding: 30px;
+    margin: 30px;
+}
+
+#sag{
+    float: right;
+    padding-right: 15px;
+}
+
+header nav.nav a{
+    padding: 1px;
+    
+}
+
+#search{
+    width: 430px;
+    height: 32px;
+}
+#ara{
+    width: 47px;
+    height: 32px;
+}
+
+#uccizgi{
+    height: 32px;
+    width: 32px;
+}
+#world{
+    width: 50px;
+    height: 50px;
+}
+
+#vikipedi{
+    width: 107px;
+    height: 18px;
+}
+
+#ozgur{
+    width: 104px;
+    height: 13px;
+}
+
+ul.menu li{
+    display: inline;
+    margin-right: 10px;
+}
+
+ul.menu li.sag{
+    float: right;
+
+}
+
+
+header nav.nav img{
+    width: 30px;
+    height: 20px;    
+}
+
+table{
+    float: right;
+}
+
+table.table{
+        border: 1px solid #a2a9b1;
+        border-spacing: 3px;
+        background-color: #f8f9fa;
+        color: black;
+        margin: 0.5em 0 0.5em 1em;
+        padding: 0.2em;
+        float: right;
+        font-size: 88%;
+        line-height: 1.5em;
+        width: 22em;
+}
+
+.table .sembol{
+    display: block;
+    margin: auto;
+}
+
+ul li.kaynak{
+    font-size: 12px;
+}
+
+p.kaynakça{
+    font-size: 12px;
+}
+
+main h2{
+    font-size: 1.3em;
+    font-family: 'Linux Libertine', 'Georgia', 'Times', 'Source Serif Pro', serif;
+    line-height: 1.375;
+    font-weight: normal;
+}
+
+#tzod{
+    background-color: rgb(117, 200, 230);  
+}
+#tburc{
+    background-color: rgb(150, 216, 241);
+}
+#tbatı{
+    background-color: rgb(150, 216, 241);
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+footer{   
+    font-size: 0.75em;
+}
+
+footer a{
+    padding: 10px;
+}
+
+#deg{
+    font-size: small;
+    font-weight: normal;
+    margin-left: 1em;
+    vertical-align: baseline;
+    line-height: 0;
+}
+
+#tilgili{
+    background-color: rgb(150, 216, 241);
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+#totorite{
+    background-color: rgb(150, 216, 241);
+}
+
+#marcus{
+    color: rgb(215, 51, 51);
+}
+
+#latin{
+   color: rgb(51, 102, 204);
+}
+
+#madde{
+   color: rgb(32, 33, 34);
+}
+
+footer{
+    margin-top: 100px;
+}
